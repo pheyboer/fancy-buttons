@@ -15,6 +15,9 @@ For this project, we will create four buttons. Each button will have a specific 
 - The light switch button will turn on and off when clicked.
 - The text repeater button will copy the text of the button over and over.
 
+# Screenshots
+!["Screenshot of Homepage "](https://github.com/pheyboer/fancy-buttons/blob/main/fancy-buttons.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
